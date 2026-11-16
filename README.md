@@ -1,11 +1,5 @@
 # TP Android — ListView de contacts modifiable
 
-## Ouvrir le projet
-1. Dans Android Studio : **File > Open** et choisir le dossier `ContactsListView`.
-2. Laisser Gradle se synchroniser, puis cliquer sur **Run**.
-
-(Ou bien créer le projet « Empty Views Activity » comme indiqué dans le sujet et remplacer
-les fichiers par ceux de ce dossier.)
 
 ## Fichiers
 | Fichier | Rôle |
